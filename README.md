@@ -1,4 +1,4 @@
-# CMU 15-445 Database Systems
+# Система управления базами данных
 
 - [x] Project 1 - Buffer Pool
 
